@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "v-form-builder": "^1.4.1-rc2",
+    "vue": "^2.6.11",
+    "vue-form-generator": "^2.3.4",
+    "vue-formio": "^4.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
